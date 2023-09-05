@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notes_App/static/css/main.cb7edc6a.css",
+    "main.js": "/Notes_App/static/js/main.3e751975.js",
+    "static/js/787.efd4afdc.chunk.js": "/Notes_App/static/js/787.efd4afdc.chunk.js",
+    "index.html": "/Notes_App/index.html",
+    "main.cb7edc6a.css.map": "/Notes_App/static/css/main.cb7edc6a.css.map",
+    "main.3e751975.js.map": "/Notes_App/static/js/main.3e751975.js.map",
+    "787.efd4afdc.chunk.js.map": "/Notes_App/static/js/787.efd4afdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7edc6a.css",
+    "static/js/main.3e751975.js"
+  ]
+}
